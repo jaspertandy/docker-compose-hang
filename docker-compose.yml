@@ -5,178 +5,178 @@ services:
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/1:/var/lib/postgresql/data
+      - ./services/1:/var/lib/postgresql
   pg_2:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/2:/var/lib/postgresql/data
+      - ./services/2:/var/lib/postgresql
   pg_3:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/3:/var/lib/postgresql/data
+      - ./services/3:/var/lib/postgresql
   pg_4:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/4:/var/lib/postgresql/data
+      - ./services/4:/var/lib/postgresql
   pg_5:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/5:/var/lib/postgresql/data
+      - ./services/5:/var/lib/postgresql
   pg_6:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/6:/var/lib/postgresql/data
+      - ./services/6:/var/lib/postgresql
   pg_7:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/7:/var/lib/postgresql/data
+      - ./services/7:/var/lib/postgresql
   pg_8:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/8:/var/lib/postgresql/data
+      - ./services/8:/var/lib/postgresql
   pg_9:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/9:/var/lib/postgresql/data
+      - ./services/9:/var/lib/postgresql
   pg_10:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/10:/var/lib/postgresql/data
+      - ./services/10:/var/lib/postgresql
   pg_11:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/11:/var/lib/postgresql/data
+      - ./services/11:/var/lib/postgresql
   pg_12:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/12:/var/lib/postgresql/data
+      - ./services/12:/var/lib/postgresql
   pg_13:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/13:/var/lib/postgresql/data
+      - ./services/13:/var/lib/postgresql
   pg_14:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/14:/var/lib/postgresql/data
+      - ./services/14:/var/lib/postgresql
   pg_15:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/15:/var/lib/postgresql/data
+      - ./services/15:/var/lib/postgresql
   pg_16:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/16:/var/lib/postgresql/data
+      - ./services/16:/var/lib/postgresql
   pg_17:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/17:/var/lib/postgresql/data
+      - ./services/17:/var/lib/postgresql
   pg_18:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/18:/var/lib/postgresql/data
+      - ./services/18:/var/lib/postgresql
   pg_19:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/19:/var/lib/postgresql/data
+      - ./services/19:/var/lib/postgresql
   pg_20:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/20:/var/lib/postgresql/data
+      - ./services/20:/var/lib/postgresql
   pg_21:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/21:/var/lib/postgresql/data
+      - ./services/21:/var/lib/postgresql
   pg_22:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/22:/var/lib/postgresql/data
+      - ./services/22:/var/lib/postgresql
   pg_23:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/23:/var/lib/postgresql/data
+      - ./services/23:/var/lib/postgresql
   pg_24:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/24:/var/lib/postgresql/data
+      - ./services/24:/var/lib/postgresql
   pg_25:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/25:/var/lib/postgresql/data
+      - ./services/25:/var/lib/postgresql
   pg_26:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/26:/var/lib/postgresql/data
+      - ./services/26:/var/lib/postgresql
   pg_27:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/27:/var/lib/postgresql/data
+      - ./services/27:/var/lib/postgresql
   pg_28:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/28:/var/lib/postgresql/data
+      - ./services/28:/var/lib/postgresql
   pg_29:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/29:/var/lib/postgresql/data
+      - ./services/29:/var/lib/postgresql
   pg_30:
     image: postgres:11
     environment:
       - POSTGRES_PASSWORD=root
     volumes:
-      - ./services/30:/var/lib/postgresql/data
+      - ./services/30:/var/lib/postgresql
